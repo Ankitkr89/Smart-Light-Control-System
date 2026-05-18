@@ -30,12 +30,5 @@ The Arduino receives serial commands through the Serial Monitor:
 - Embedded Systems Learning
 - IoT Basics
   
-## Project Screenshots
-![Circuit](circuit.png)
-
-![LED ON](led_on.png)
-
-![LED OFF](led_off.png)
-
 ## Author
 Ankit Kumar
