@@ -29,6 +29,9 @@ The Arduino receives serial commands through the Serial Monitor:
 - Smart Lighting Systems
 - Embedded Systems Learning
 - IoT Basics
+
+## Mobile App Simulation
+In this project, Serial Monitor commands are used to simulate app-based smart light control functionality in a virtual environment.
   
 ## Author
 Ankit Kumar
