@@ -33,13 +33,13 @@ The Arduino receives serial commands through the Serial Monitor:
 ## Project Screenshots
 
 ### Circuit Diagram
-![Circuit](circuit.png)
+![Circuit](02_circuit.png)
 
 ### LED ON
-![LED ON](on Blub.png)
+![LED ON](03_led_on.png)
 
 ### LED OFF
-![LED OFF](off blub.png)
+![LED OFF](04_led_off.png)
 
 ## Author
 Ankit Kumar
