@@ -38,10 +38,10 @@ The Arduino receives serial commands through the Serial Monitor:
 ![Circuit](circuit.png)
 
 ### LED ON
-![LED ON](led_on.png)
+![LED ON](Led_on.png)
 
 ### LED OFF
-![LED OFF](led_off.png)
+![LED OFF](Led_off.png)
 
 ## Author
 Ankit Kumar
